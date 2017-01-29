@@ -1,0 +1,222 @@
+{
+
+  "name": "Palanivelrajan Balasubramanian",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.0.1"
+  },
+
+  "info": {
+    "label": "Senior Solutions Architect",
+    "characterClass": "Programmer",
+    "image" : "../palanivel.jpg",
+    "brief": "Passionate **Solutions Architect**, and **OpenSource enthusiast** looking to solve complex business problems by lending my expertise on solution/application design, development, implementation, and support of business solutions using various technologies web, mobile, cloud, and open source. Currently working on next generation Omni channel micro services platform to leverage the power of cloud."
+  },
+
+  "contact": {
+    "phone": "1-404-509-7085",
+    "email": "praveen12bnitt@gmail.com"
+  },
+
+  "location": {
+    "address": "6150 Shiloh Woods Dr",
+    "city": "Cumming",
+    "region": "GA",
+    "code": "30040",
+    "country": "US"
+  },
+
+
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "praveen12bnitt",
+      "url": "https://github.com/praveen12bnitt"
+    },
+    {
+      "label": "BitBucket",
+      "network": "Bitbucket",
+      "user": "praveen12bnitt",
+      "url": "https://bitbucket.org/praveen12bnitt"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "user": "praveen12bnitt",
+      "url": "https://www.linkedin.com/in/palanivelr"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "10+ years industry IT and software development experience.",
+
+    "history": [
+
+      {
+        "employer": "Manhattan Associates",
+        "url": "www.manh.com",
+        "position": "Senior Principal Software Engineer",
+        "summary": "Working on next generation Omni channel microservices platform to leverage the power of cloud.",
+        "start": "2014-02",
+        "keywords": ["Docker", "AWS", "SprintBoot", "Netflix OSS", "EclipseLink", "DevOps", "NoSql", "Camel"],
+        "highlights": [
+          "Member of the architecture team responsible for redesigning our existing application as micro services. The new Platform is highly **scalable**, **reliable**, **extensible** and leverages the power of cloud",
+          "Design and develop **in-house frameworks** on top of EclipseLink, Apache Camel and other open source tools to support our persistence services, extensibility and scalability",
+          "Help the team with **code reviews, automated testing statergies, code quality** etc.",
+          "We use **SpringBoot** and **SpringCloud** to write these micro services. **Docker** for Containerization",
+          "We use AWS services like **ECS**, **EC2**, **Autoscaling**, **ELB** and other services to achieve our architecture requirements",
+          "**MySQL, MongoDB and ElasticSearch** as DataStore",
+          "Securing the microservices with **OAuth**",
+          "Automate the entire CI and QA pipeline using **Gradle, Jenkins and AWS CloudFormation**"
+        ]
+      },
+
+      {
+        "employer": "Manhattan Associates",
+        "url": "www.manh.com",
+        "position": "Principal Software Engineer",
+        "summary": "Member of Architecture team responsible for Application Architecture and Deployment",
+        "start": "2012-01",
+        "end": "2014-01",
+        "keywords": ["Jetty", "Tomcat", "Spring", "Spring Sessions", "Atomikos", "JMS", "DevOps"],
+        "highlights": [
+          "Managed a 5-person development team",
+          "Remove usage of J2EE technologies with Spring and other OpenSource technologies.",
+          "Deployed our application on pure web containers like Jetty and Tomcat",
+          "Help product team use the framework in the right way by proving consulting services on the framework that we use",
+          "Developed System Director which automates deployment and management of our application on Unix machines. Used [Jenkins Remoting Engine](https://github.com/jenkinsci/remoting) to communicate with multiple unix machines application installations. Helps user stop, start, apply patches and monitor application using a web interface.",
+          "Migrated all source code from Clearcase to Git; Conducted training session to ease the migration"
+        ]
+      },
+      {
+        "employer": "Manhattan Associates",
+        "url": "www.manh.com",
+        "position": "Senior Software Engineer",
+        "summary" : "Developed framework for supporting our Supply Chain Process Platform.",
+        "start": "2010-02",
+        "end": "2012-01",
+        "keywords": ["Spring", "Hibernate", "J2EE", "DevOps"],
+        "highlights": [
+          "Framework Owner of **Manhattan Data Services(MDS)** - wrapper on top of Hibernate to provide persistence service for Manhattan Applications.",
+          "Framework owner of **ILSRuntime** - responsible for initializing all basic services like Caching, Persistence, JMS, Transaction, Security, Spring, reporting and then loading all manhattan modules based on the installed license.",
+          "Enhanced **Manhattan Reporting Framework** to support high volume printing",
+          "Responsible for the Build and Deployment framework which automates deployment of all manhattan products. The tools is written using Apache Ant, Shell and Batch script",
+          "Removed EJB's and MDB's and replaced them with Spring Transactions and MDP's",
+          "Increased the usage of Spring beans across all manhattan products"
+        ]
+      },
+      {
+        "employer": "Manhattan Associates",
+        "url": "www.manh.com",
+        "position" : "Software Engineer",
+        "summary" : "Developer and Build & Deployment engineer",
+        "start": "2006-07",
+        "end": "2010-01",
+        "keywords": ["Java", "Spring", "Hibernate", "Release Engineering" ],
+        "highlights" : [
+          "Developed and maintained build and deployment script using Apache Ant and shell",
+          "Responsible Version control, branching strategy, release engineering",
+          "Responsible for defect fixing and enhancements in framework libraries",
+          "Setup and maintain QA and development integration environment",
+          "Added support for deployment manhattan application in JBoss and Weblogic application servers"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "summary": "Chemical engineer from National Institute of Technology",
+    "level": "degree",
+    "degree": "B.Tech",
+    "history": [
+      {
+        "institution": "National Institute of Technology, Trichy, Tamilnadu, India",
+        "title": "B.Tech",
+        "url": "http://www.nitt.edu/",
+        "start": "2002-07",
+        "end": "2006-06"
+      }
+    ]
+  },
+
+  "skills": {
+    "sets": [
+      {
+        "name": "Java",
+        "level": "advanced",
+        "skills": [
+          "SpringBoot", "EclipseLink", "Hibernate", "Groovy", "Netflix OSS", "JDBC", "REST", "OAuth", "Liquibase", "Flyway"
+        ]
+      },
+      {
+        "name": "Datastore",
+        "level": "intermediate",
+        "skills": [
+          "MongoDB", "ElasticSearch", "Oracle", "MySql", "Postgres", "RabbitMQ", "ActiveMQ"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "intermediate",
+        "skills": [
+          "AWS", "EC2", "RDS", "S3", "Azure", "Docker", "Pivotal Cloud Foundry"
+        ]
+      },
+      {
+        "name": "DevOps",
+        "level": "advanced",
+        "skills": [
+          "Jenkins", "Bash", "Git", "Mercurial", "Clearcase", "CruiseControl"
+        ]
+      },
+      {
+        "name" : "J2EE",
+        "level": "advanced",
+        "skills" : [
+          "SOAP", "JTA", "JMS", "EJB", "MDB", "Servlet"
+        ]
+      },
+      {
+        "name" : "Scripting and Automation",
+        "level": "advanced",
+        "skills" : [
+          "Apache Ant", "Gradle", "Shell"
+        ]
+      },
+      {
+        "name": "Application Server",
+        "level" : "intermediate",
+        "skills" : [
+          "Websphere", "Jboss AS", "Tomcat", "Jetty", "Weblogic"
+        ]
+      }
+    ]
+  },
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Ekta Agarwal",
+      "flavor": "professional",
+      "quote": "I have been working with Palani for close to two years now and he never fails to amaze me. His ability to think out of the box and come up with innovative/unconventional ideas to solve any technical problem is amazing. It has been a real pleasure working with him and I would recommend anybody running short of ideas to talk to him just once. He brings enormous value and greatly enrichens the quality of any technical discussion"
+    },
+    {
+      "name": "Ranjith Krishnan",
+      "flavor": "professional",
+      "quote": "Very strong technical skills and experience; Solid architectural background; very pleasant to work with; Excellent collaborator; Always ready to help and guide others; very dedicated to the work he does."
+    },
+    {
+      "name": "Kartik Pandya",
+      "flavor": "professional",
+      "quote": "Palani is very well respected for his technical abilities and sincerity for work. Palani is very approachable. Other developers seek Palani's help and guidance in technical areas. Palani has made many key contributions to the organization and his advice and support are invaluable to me in making key decisions."
+    }
+  ]
+}
