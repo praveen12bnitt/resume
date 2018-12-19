@@ -8,10 +8,10 @@
   },
 
   "info": {
-    "label": "Senior Solutions Architect",
+    "label": "Director",
     "characterClass": "Programmer",
     "image" : "../palanivel.jpg",
-    "brief": "Passionate **Solutions Architect**, and **OpenSource enthusiast** looking to solve complex business problems by lending my expertise on solution/application design, development, implementation, and support of business solutions using various technologies web, mobile, cloud, and open source. Currently working on next generation Omni channel micro services platform to leverage the power of cloud."
+    "brief": "**Engineering leader** and **OpenSource enthusiast** looking to solve complex business problems by lending my expertise on solution/application design, development, implementation, and support of business solutions using various technologies web, mobile, cloud, and open source. Currently working on next generation Omni channel micro services platform to leverage the power of cloud."
   },
 
   "contact": {
@@ -20,10 +20,10 @@
   },
 
   "location": {
-    "address": "6150 Shiloh Woods Dr",
-    "city": "Cumming",
+    "address": "2875 Crescent Pkwy, APT 1485",
+    "city": "Atlanta",
     "region": "GA",
-    "code": "30040",
+    "code": "30339",
     "country": "US"
   },
 
@@ -51,9 +51,24 @@
 
   "employment": {
 
-    "summary": "10+ years industry IT and software development experience.",
+    "summary": "12+ years industry IT and software development experience.",
 
     "history": [
+
+      {
+        "employer": "Manhattan Associates",
+        "url": "www.manh.com",
+        "position": "Director, OLM R & D",
+        "summary": "Leading Develpment, Support and Maintaintance of OMNI Order Management(Selling) and Payment processing appliations",
+        "start": "2018-02",
+        "keywords": ["Order Management", "Pricing", "Tax", "Invoice", "Payment Processing", "Search"],
+        "highlights": [
+          "Responsible for **Product Development and Maintanance** of Order Selling Systems",
+          "Help Professional teams to **design** application modifications to **implement client requirements**",
+          "Transformed a **5-million-line monolith into 60 microservices**: dev to prod in < 24 months.",
+          "**Technical counsel** to the CTO and VP of Cloud Platform, R&D."
+        ]
+      },
 
       {
         "employer": "Manhattan Associates",
@@ -61,6 +76,7 @@
         "position": "Senior Principal Software Engineer",
         "summary": "Working on next generation Omni channel microservices platform to leverage the power of cloud.",
         "start": "2014-02",
+        "end": "2018-01",
         "keywords": ["Docker", "AWS", "SprintBoot", "Netflix OSS", "EclipseLink", "DevOps", "NoSql", "Camel"],
         "highlights": [
           "Member of the architecture team responsible for redesigning our existing application as micro services. The new Platform is highly **scalable**, **reliable**, **extensible** and leverages the power of cloud",
@@ -168,7 +184,7 @@
         "name": "DevOps",
         "level": "advanced",
         "skills": [
-          "Jenkins", "Bash", "Git", "Mercurial", "Clearcase", "CruiseControl"
+          "Rundeck", "Jenkins", "Bash", "Git", "Mercurial", "Clearcase"
         ]
       },
       {
