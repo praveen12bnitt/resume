@@ -11,7 +11,7 @@
     "label": "Director",
     "characterClass": "Programmer",
     "image" : "../palanivel.jpg",
-    "brief": "**Engineering leader** and **OpenSource enthusiast** looking to solve complex business problems by lending my expertise on solution/application design, development, implementation, and support of business solutions using various technologies web, mobile, cloud, and open source. Currently working on next generation Omni channel micro services platform to leverage the power of cloud."
+    "brief": "Hands on leader with strong track record of setting the functional and architectural vision and delivering on that vision. Demonstrated success in **transforming large enterprise** application from a legacy architecture to a **modern highly scalable architecture**. My strengths are **boundless curiosity** and **fearless application of technology.** "
   },
 
   "contact": {
@@ -20,10 +20,10 @@
   },
 
   "location": {
-    "address": "2875 Crescent Pkwy, APT 1485",
-    "city": "Atlanta",
+    "address": "1987 Credence Ct NE",
+    "city": "Marietta",
     "region": "GA",
-    "code": "30339",
+    "code": "30066",
     "country": "US"
   },
 
@@ -59,14 +59,14 @@
         "employer": "Manhattan Associates",
         "url": "www.manh.com",
         "position": "Director, OLM R & D",
-        "summary": "Leading Develpment, Support and Maintaintance of OMNI Order Management(Selling) and Payment processing appliations",
+        "summary": "Leading Development, Support and Maintenance of OMNI Order Management(Selling) and Payment processing applications",
         "start": "2018-02",
         "keywords": ["Order Management", "Pricing", "Tax", "Invoice", "Payment Processing", "Search"],
         "highlights": [
-          "Responsible for **Product Development and Maintanance** of Order Selling Systems",
-          "Help Professional teams to **design** application modifications to **implement client requirements**",
+          "Responsible for **Product Development and Maintenance** of Order Selling Systems",
           "Transformed a **5-million-line monolith into 60 microservices**: dev to prod in < 24 months.",
-          "**Technical counsel** to the CTO and VP of Cloud Platform, R&D."
+          "Migrated application from AWS to GCP",
+          "40+ live customers in less than 2 years"
         ]
       },
 
@@ -81,12 +81,8 @@
         "highlights": [
           "Member of the architecture team responsible for redesigning our existing application as micro services. The new Platform is highly **scalable**, **reliable**, **extensible** and leverages the power of cloud",
           "Design and develop **in-house frameworks** on top of EclipseLink, Apache Camel and other open source tools to support our persistence services, extensibility and scalability",
-          "Help the team with **code reviews, automated testing statergies, code quality** etc.",
           "We use **SpringBoot** and **SpringCloud** to write these micro services. **Docker** for Containerization",
-          "We use AWS services like **ECS**, **EC2**, **Autoscaling**, **ELB** and other services to achieve our architecture requirements",
-          "**MySQL, MongoDB and ElasticSearch** as DataStore",
-          "Securing the microservices with **OAuth**",
-          "Automate the entire CI and QA pipeline using **Gradle, Jenkins and AWS CloudFormation**"
+          "Securing the microservices with **OAuth**"
         ]
       },
 
@@ -95,49 +91,13 @@
         "url": "www.manh.com",
         "position": "Principal Software Engineer",
         "summary": "Member of Architecture team responsible for Application Architecture and Deployment",
-        "start": "2012-01",
+        "start": "2006-07",
         "end": "2014-01",
         "keywords": ["Jetty", "Tomcat", "Spring", "Spring Sessions", "Atomikos", "JMS", "DevOps"],
         "highlights": [
           "Managed a 5-person development team",
           "Remove usage of J2EE technologies with Spring and other OpenSource technologies.",
-          "Deployed our application on pure web containers like Jetty and Tomcat",
-          "Help product team use the framework in the right way by proving consulting services on the framework that we use",
-          "Developed System Director which automates deployment and management of our application on Unix machines. Used [Jenkins Remoting Engine](https://github.com/jenkinsci/remoting) to communicate with multiple unix machines application installations. Helps user stop, start, apply patches and monitor application using a web interface.",
-          "Migrated all source code from Clearcase to Git; Conducted training session to ease the migration"
-        ]
-      },
-      {
-        "employer": "Manhattan Associates",
-        "url": "www.manh.com",
-        "position": "Senior Software Engineer",
-        "summary" : "Developed framework for supporting our Supply Chain Process Platform.",
-        "start": "2010-02",
-        "end": "2012-01",
-        "keywords": ["Spring", "Hibernate", "J2EE", "DevOps"],
-        "highlights": [
-          "Framework Owner of **Manhattan Data Services(MDS)** - wrapper on top of Hibernate to provide persistence service for Manhattan Applications.",
-          "Framework owner of **ILSRuntime** - responsible for initializing all basic services like Caching, Persistence, JMS, Transaction, Security, Spring, reporting and then loading all manhattan modules based on the installed license.",
-          "Enhanced **Manhattan Reporting Framework** to support high volume printing",
-          "Responsible for the Build and Deployment framework which automates deployment of all manhattan products. The tools is written using Apache Ant, Shell and Batch script",
-          "Removed EJB's and MDB's and replaced them with Spring Transactions and MDP's",
-          "Increased the usage of Spring beans across all manhattan products"
-        ]
-      },
-      {
-        "employer": "Manhattan Associates",
-        "url": "www.manh.com",
-        "position" : "Software Engineer",
-        "summary" : "Developer and Build & Deployment engineer",
-        "start": "2006-07",
-        "end": "2010-01",
-        "keywords": ["Java", "Spring", "Hibernate", "Release Engineering" ],
-        "highlights" : [
-          "Developed and maintained build and deployment script using Apache Ant and shell",
-          "Responsible Version control, branching strategy, release engineering",
-          "Responsible for defect fixing and enhancements in framework libraries",
-          "Setup and maintain QA and development integration environment",
-          "Added support for deployment manhattan application in JBoss and Weblogic application servers"
+          "Deployed our application on pure web containers like Jetty and Tomcat"
         ]
       }
     ]
@@ -160,52 +120,31 @@
   "skills": {
     "sets": [
       {
-        "name": "Java",
+        "name": "Software Development",
         "level": "advanced",
         "skills": [
-          "SpringBoot", "EclipseLink", "Hibernate", "Groovy", "Netflix OSS", "JDBC", "REST", "OAuth", "Liquibase", "Flyway"
+          "Architecture", "Scalability", "Reliability", "Speed"
         ]
       },
       {
-        "name": "Datastore",
-        "level": "intermediate",
+        "name": "Programming",
+        "level": "advanced",
         "skills": [
-          "MongoDB", "ElasticSearch", "Oracle", "MySql", "Postgres", "RabbitMQ", "ActiveMQ"
+          "Java", "REST", "Microservices", "Messaging", "NoSql", "Sql", "Search"
         ]
       },
       {
         "name": "Cloud",
         "level": "intermediate",
         "skills": [
-          "AWS", "EC2", "RDS", "S3", "Azure", "Docker", "Pivotal Cloud Foundry"
+          "AWS", "EC2", "RDS", "S3", "Azure", "Docker"
         ]
       },
       {
         "name": "DevOps",
         "level": "advanced",
         "skills": [
-          "Rundeck", "Jenkins", "Bash", "Git", "Mercurial", "Clearcase"
-        ]
-      },
-      {
-        "name" : "J2EE",
-        "level": "advanced",
-        "skills" : [
-          "SOAP", "JTA", "JMS", "EJB", "MDB", "Servlet"
-        ]
-      },
-      {
-        "name" : "Scripting and Automation",
-        "level": "advanced",
-        "skills" : [
-          "Apache Ant", "Gradle", "Shell"
-        ]
-      },
-      {
-        "name": "Application Server",
-        "level" : "intermediate",
-        "skills" : [
-          "Websphere", "Jboss AS", "Tomcat", "Jetty", "Weblogic"
+          "Rundeck", "Jenkins","Git"
         ]
       }
     ]
@@ -219,11 +158,6 @@
   ],
 
   "testimonials": [
-    {
-      "name": "Ekta Agarwal",
-      "flavor": "professional",
-      "quote": "I have been working with Palani for close to two years now and he never fails to amaze me. His ability to think out of the box and come up with innovative/unconventional ideas to solve any technical problem is amazing. It has been a real pleasure working with him and I would recommend anybody running short of ideas to talk to him just once. He brings enormous value and greatly enrichens the quality of any technical discussion"
-    },
     {
       "name": "Ranjith Krishnan",
       "flavor": "professional",
